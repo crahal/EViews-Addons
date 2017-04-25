@@ -1,6 +1,6 @@
 # StatFact
 
-A second home for the StatFact EViews add-in:
+A second home for the StatFact EViews add-in and replication files for ['A Guide to the StatFact EViews Add-in'](https://link.springer.com/article/10.1007/s10614-015-9507-6)
 
 * <em>statfact.prg</em> is the main program.
 * <em>statfactinstall.prg</em> is the installer.
