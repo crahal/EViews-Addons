@@ -1,2 +1,2 @@
-# Statistical-Software-Packages
-Replication files for various published software packages 
+# EViews-Addons
+Replication files for various published EViews-Addons.
